@@ -1,0 +1,3 @@
+Chess Training Tools is a collection of chess training tools. It includes a chess visualization trainer that teaches chess visualization by drilling you on the color of a particular square, and also on your ability to tell if two squares are the same color, if two (or three) squares are on the same diagonal, if two squares are a knight move apart, or if two squares are two knight moves apart. It includes a weak chess program (called Vince) that lets you lag the display by several ply, hide all pieces or all pawns, and block out quadrants of the board. Furthermore, it includes an opening memorization trainer. The Palm & Pocket PC versions are missing the mate, opening trainer, and Vince.
+
+See http://chesstraining.sourceforge.net/ for the project blog.
